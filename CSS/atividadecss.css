@@ -1,19 +1,19 @@
 .div {
     width: 100%;
 }
-.div_1{
+
+.div_color_height{
     height: 50px;
     background-color: aqua;
 }
+
 .div_2{
     height: 400px;
     background-color: blueviolet;
 }
-.div_3{
-    height: 50px;
-    background-color: aqua;
-}
+
 .div_4{
     height: 50px;
     background-color: red;
 }
+
